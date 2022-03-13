@@ -1,0 +1,24 @@
+{'ssid': 'vivo-1906', 'password': 'jjjjjjjj'}
+{'ssid': 'vivo 1906', 'password': 'jjjjjjjj'}
+{'ssid': 'Jills', 'password': '11111111'}
+{'ssid': 'owshii_', 'password': '11111111'}
+{'ssid': 'goZon', 'password': '11111111'}
+{'ssid': '....', 'password': 'akotohsiroannpassword29'}
+{'ssid': 'vivo-1906', 'password': 'jjjjjjjj'}
+{'ssid': 'vivo 1906', 'password': 'jjjjjjjj'}
+{'ssid': 'Jills', 'password': '11111111'}
+{'ssid': 'owshii_', 'password': '11111111'}
+{'ssid': 'goZon', 'password': '11111111'}
+{'ssid': '....', 'password': 'akotohsiroannpassword29'}
+{'ssid': 'vivo-1906', 'password': 'jjjjjjjj'}
+{'ssid': 'vivo 1906', 'password': 'jjjjjjjj'}
+{'ssid': 'Jills', 'password': '11111111'}
+{'ssid': 'owshii_', 'password': '11111111'}
+{'ssid': 'goZon', 'password': '11111111'}
+{'ssid': '....', 'password': 'akotohsiroannpassword29'}
+{'ssid': 'vivo-1906', 'password': 'jjjjjjjj'}
+{'ssid': 'vivo 1906', 'password': 'jjjjjjjj'}
+{'ssid': 'Jills', 'password': '11111111'}
+{'ssid': 'owshii_', 'password': '11111111'}
+{'ssid': 'goZon', 'password': '11111111'}
+{'ssid': '....', 'password': 'akotohsiroannpassword29'}
